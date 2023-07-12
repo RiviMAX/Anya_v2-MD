@@ -38,10 +38,10 @@ global.ownernumber = ["94789864930"]
 global.ytname = "YT: Voiceland Karaoke"
 global.continent = "Asia" // your continent name 
 global.region = "Sri Lanka"
-global.state = "Enter Your State Name Here" // your state name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "Enter Your Insta ID Here"
-global.email = "Enter Your Email ID Here"
+global.state = "Colombo" // your state name
+global.timezone = "Asia/Colombo" // search on google if you don't know the timezone of your country //
+global.instagramId = "rivishan_max"
+global.email = "rivishansandeep5@gmail.com"
 
 
 // Greeting messages
